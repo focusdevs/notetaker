@@ -1,0 +1,9 @@
+[30-Apr-2013 21:26:52] PHP Parse error:  syntax error, unexpected T_STRING in /home/jcoleman/public_html/focusmx/notes/application/config/database.php on line 53
+[30-Apr-2013 21:27:27] PHP Fatal error:  Class 'Notes' not found in /home/jcoleman/public_html/focusmx/notes/system/core/Loader.php on line 303
+[30-Apr-2013 21:34:29] PHP Fatal error:  Call to undefined function  result_array() in /home/jcoleman/public_html/focusmx/notes/application/models/notes.php on line 8
+[01-May-2013 07:11:24] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/jcoleman/public_html/focusmx/notes/application/models/notes.php on line 11
+[01-May-2013 07:57:55] PHP Fatal error:  Call to a member function addNote() on a non-object in /home/jcoleman/public_html/focusmx/notes/application/controllers/note.php on line 9
+[01-May-2013 07:58:11] PHP Fatal error:  Call to a member function addNote() on a non-object in /home/jcoleman/public_html/focusmx/notes/application/controllers/note.php on line 9
+[01-May-2013 07:59:14] PHP Fatal error:  Call to a member function addNote() on a non-object in /home/jcoleman/public_html/focusmx/notes/application/controllers/note.php on line 8
+[01-May-2013 07:59:59] PHP Fatal error:  Call to undefined method notes::addNote() in /home/jcoleman/public_html/focusmx/notes/application/controllers/note.php on line 8
+[01-May-2013 08:23:51] PHP Fatal error:  Call to undefined method notes::getClients() in /home/jcoleman/public_html/focusmx/notes/application/controllers/home.php on line 11
